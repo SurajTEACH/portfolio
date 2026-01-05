@@ -267,7 +267,7 @@ export const SkillsInfo = [
       image: spotifyCloneLogo,
       tags: ["HTML", "CSS", "JavaScript", "Responsive Design", "Music UI"],
       github: "https://github.com/yourusername/Spotify-Clone",
-      webapp: "https://spotifyclone.netlify.app/",
+      webapp: "https://spotify-project-ogsm.onrender.com",
     }, 
 
     {

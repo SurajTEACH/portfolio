@@ -34,6 +34,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 import Neatbean from './assets/tech_logo/netbeans.png';
 import Eclipse from './assets/tech_logo/eclipse.png';
+import Multer from './assets/tech_logo/multer.png';
 
 // Experience Section Logo's
 import collegeAssignment from './assets/company_logo/collageassigment.png';
@@ -104,6 +105,7 @@ export const SkillsInfo = [
       { name: 'Postman', logo: postmanLogo },
       {name: 'netbeans', logo: Neatbean},
       {name: 'eclipse', logo: Eclipse},
+       {name: 'Multer', logo: Multer},
       
       
     ],

@@ -35,7 +35,9 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 import Neatbean from './assets/tech_logo/netbeans.png';
 import Eclipse from './assets/tech_logo/eclipse.png';
 import Multer from './assets/tech_logo/multer.png';
-
+import Cloud from  './assets/tech_logo/cloud.png'; 
+import Redux from  './assets/tech_logo/redux.png'; 
+import Soket from  './assets/tech_logo/soketio.png'; 
 // Experience Section Logo's
 import collegeAssignment from './assets/company_logo/collageassigment.png';
 import agcLogo from './assets/company_logo/agc_logo.png';
@@ -105,7 +107,10 @@ export const SkillsInfo = [
       { name: 'Postman', logo: postmanLogo },
       {name: 'netbeans', logo: Neatbean},
       {name: 'eclipse', logo: Eclipse},
-       {name: 'Multer', logo: Multer},
+      {name: 'Multer', logo: Multer},
+      {name: 'Socket', logo: Soket},
+      {name: 'Cloudinary', logo: Cloud},
+       {name: 'ReduxToolKit', logo: Redux},
       
       
     ],

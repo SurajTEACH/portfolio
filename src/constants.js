@@ -64,6 +64,8 @@ import  photographyaLogo from './assets/work_logo/p2.png';
 import spotifyCloneLogo from './assets/work_logo/p4.png';
 import myntraCloneLogo from './assets/work_logo/p5.png';
 import stockManagementLogo from './assets/work_logo/p6.png';
+import  chatApplication from './assets/work_logo/chatapplication.png';
+
 
 export const SkillsInfo = [
   {
@@ -247,9 +249,30 @@ export const SkillsInfo = [
       github: "https://github.com/yourusername/SaveCity",
       webapp: "https://savecity.netlify.app/",
      },
+    {
+        id: 3,
+        title: "RealTime Chat Application",
+        description:
+          "A full-stack real-time chat application enabling users to communicate instantly with secure authentication. It supports real-time messaging using Socket.IO, image sharing with Multer and Cloudinary, and efficient data storage with MongoDB. The application delivers a responsive and seamless chat experience using React.js.",
+        image: chatApplication, // apna image import karna
+        tags: [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Socket.IO",
+          "React.js",
+          "Multer",
+          "Cloudinary",
+          "RESTful APIs",
+          "Real-Time Messaging",
+        ],
+        github: "https://github.com/SurajTEACH/realtimeChatApplication",
+        webapp: "https://realtimechatingsuzu.onrender.com",
+   }
+
 
    {
-      id: 3,
+      id: 4,
       title: "Photographya - Responsive Portfolio Website",
       description:
         "A fully responsive photography portfolio website built using HTML, CSS, and JavaScript. It features smooth animations, an elegant gallery layout, and a modern interface designed to showcase visual storytelling with style and simplicity.",
@@ -260,18 +283,18 @@ export const SkillsInfo = [
     },
 
    {
-      id: 4,
+      id: 5,
       title: "Spotify Clone - Music Streaming UI",
       description:
         "A responsive Spotify clone built using HTML, CSS, and JavaScript that replicates the core design and functionality of the original platform. Features include an interactive music player interface, playlist sections, and smooth animations for an engaging user experience.",
       image: spotifyCloneLogo,
       tags: ["HTML", "CSS", "JavaScript", "Responsive Design", "Music UI"],
-      github: "https://github.com/yourusername/Spotify-Clone",
+      github: "https://github.com/SurajTEACH/Spotify_project",
       webapp: "https://spotify-project-ogsm.onrender.com",
     }, 
 
     {
-      id: 5,
+      id: 6,
       title: "Myntra Clone - E-Commerce Website",
       description:
         "A responsive e-commerce website clone of Myntra built using HTML, CSS, and JavaScript. It features a modern UI with dynamic product listings, interactive cart functionality, and a clean layout optimized for a smooth shopping experience.",
@@ -282,7 +305,7 @@ export const SkillsInfo = [
     },
 
    {
-      id: 6,
+      id: 7,
       title: "Stock Management System",
       description:
         "A desktop-based inventory management application built using Java, MySQL, and Java Swing. It allows users to efficiently manage stock, track sales, and update product data through an interactive GUI for smooth business operations.",

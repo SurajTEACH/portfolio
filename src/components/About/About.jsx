@@ -40,7 +40,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           I’m a passionate Full Stack Web Developer skilled in React.js, Tailwind CSS, Spring Boot, Node.js, and MySQL. I enjoy coding and building dynamic, responsive web applications. With strong problem-solving and programming skills, I focus on writing clean, efficient code. As a fresher, I’m eager to enhance my backend and frontend expertise through real-world projects and continuous learning.
+           I’m a passionate Full Stack Web Developer skilled in React.js, Tailwind CSS, Spring Boot, Node.js, Express.js and MySQL. I enjoy coding and building dynamic, responsive web applications. With strong problem-solving and programming skills, I focus on writing clean, efficient code. As a fresher, I’m eager to enhance my backend and frontend expertise through real-world projects and continuous learning.
           </p>
           {/* Resume Button */}
           <a

@@ -268,7 +268,7 @@ export const SkillsInfo = [
         ],
         github: "https://github.com/SurajTEACH/realtimeChatApplication",
         webapp: "https://realtimechatingsuzu.onrender.com",
-   }
+   },
 
 
    {

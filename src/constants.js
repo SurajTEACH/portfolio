@@ -300,8 +300,8 @@ export const SkillsInfo = [
         "A responsive e-commerce website clone of Myntra built using HTML, CSS, and JavaScript. It features a modern UI with dynamic product listings, interactive cart functionality, and a clean layout optimized for a smooth shopping experience.",
       image: myntraCloneLogo, 
       tags: ["HTML", "CSS", "JavaScript", "Responsive Design", "E-Commerce UI"],
-      github: "https://github.com/yourusername/Myntra-Clone",
-      webapp: "https://myntaraclone.netlify.app/",
+      github: "https://github.com/SurajTEACH/myntra_project",
+      webapp: "https://myntra-clone-ct4f.onrender.com",
     },
 
    {

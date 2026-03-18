@@ -66,6 +66,7 @@ import myntraCloneLogo from './assets/work_logo/p5.png';
 import stockManagementLogo from './assets/work_logo/p6.png';
 import  chatApplication from './assets/work_logo/chatapplication.png';
 import  multiPermission from './assets/work_logo/Screenshot 2026-03-19 024317.png';
+import  taskManagement from './assets/work_logo/Screenshot 2026-03-19 032200.png';
 
 
 export const SkillsInfo = [
@@ -326,6 +327,17 @@ export const SkillsInfo = [
   github: "https://github.com/SurajTEACH/multiRolePermissionSystem",
   webapp: "https://multirolepermissionsystem-1.onrender.com/",
   }
+
+    {
+  id: 9,
+  title: "Task Management System",
+  description:
+    "A full-stack web application built using Node.js, Express.js, MongoDB, and React.js that helps users efficiently manage daily tasks and projects. It allows task creation, assignment, status tracking, and deadline management through an intuitive and responsive user interface.",
+  image: taskManagement,
+  tags: ["Node.js", "Express.js", "MongoDB", "React.js", "Task Management", "Full Stack", "Productivity App"],
+  github: "https://github.com/SurajTEACH/TASK-MANAGEMENT",
+  webapp: "https://your-live-project-link.com",
+}
 
    
   ];  

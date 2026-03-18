@@ -326,7 +326,7 @@ export const SkillsInfo = [
   tags: ["Node.js", "Express.js", "MongoDB", "React.js", "RBAC", "Full Stack", "Admin Dashboard"],
   github: "https://github.com/SurajTEACH/multiRolePermissionSystem",
   webapp: "https://multirolepermissionsystem-1.onrender.com/",
-  }
+  },
 
     {
   id: 9,

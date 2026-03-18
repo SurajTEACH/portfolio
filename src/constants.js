@@ -323,7 +323,7 @@ export const SkillsInfo = [
     "A full-stack web application built using Node.js, Express.js, MongoDB, and React.js that implements role-based access control (RBAC). It allows administrators to create and manage roles, assign permissions, and control user access efficiently through a modern and user-friendly dashboard.",
   image:multiPermission ,
   tags: ["Node.js", "Express.js", "MongoDB", "React.js", "RBAC", "Full Stack", "Admin Dashboard"],
-  github: "https://github.com/SurajTEACH/roles-permissions-system",
+  github: "https://github.com/SurajTEACH/multiRolePermissionSystem",
   webapp: "https://multirolepermissionsystem-1.onrender.com/",
   }
 

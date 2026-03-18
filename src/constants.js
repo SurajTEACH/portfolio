@@ -65,6 +65,7 @@ import spotifyCloneLogo from './assets/work_logo/p4.png';
 import myntraCloneLogo from './assets/work_logo/p5.png';
 import stockManagementLogo from './assets/work_logo/p6.png';
 import  chatApplication from './assets/work_logo/chatapplication.png';
+import  multiPermission from './assets/work_logo/Screenshot 2026-03-19 024317.png';
 
 
 export const SkillsInfo = [
@@ -314,6 +315,17 @@ export const SkillsInfo = [
       github: "https://github.com/yourusername/Stock-Management-System",
       webapp: "", 
     },
+
+    {
+  id: 8,
+  title: "Roles & Permissions Management System",
+  description:
+    "A full-stack web application built using Node.js, Express.js, MongoDB, and React.js that implements role-based access control (RBAC). It allows administrators to create and manage roles, assign permissions, and control user access efficiently through a modern and user-friendly dashboard.",
+  image:multiPermission ,
+  tags: ["Node.js", "Express.js", "MongoDB", "React.js", "RBAC", "Full Stack", "Admin Dashboard"],
+  github: "https://github.com/SurajTEACH/roles-permissions-system",
+  webapp: "https://multirolepermissionsystem-1.onrender.com/",
+  }
 
    
   ];  

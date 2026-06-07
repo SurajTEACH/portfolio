@@ -67,6 +67,9 @@ import stockManagementLogo from './assets/work_logo/p6.png';
 import  chatApplication from './assets/work_logo/chatapplication.png';
 import  multiPermission from './assets/work_logo/Screenshot 2026-03-19 024317.png';
 import  taskManagement from './assets/work_logo/Screenshot 2026-03-19 032200.png';
+import   prepaiLogo from './assets/work_logo/prepaiLogo.png';
+import   tenotechLogo from './assets/work_logo/tenotechLogo.png';
+ 
 
 
 export const SkillsInfo = [
@@ -254,7 +257,7 @@ export const SkillsInfo = [
 
       {
         id: 3,
-        title: "PrepAI - AI-Powered Learning & Interview Platform",
+        title: "SukuAI - AI-Powered Learning & Interview Platform",
         description:
           "An intelligent AI-powered platform designed to help students and job seekers prepare effectively. PrepAI generates personalized notes, analyzes resumes to identify strengths and improvement areas, conducts AI-driven mock interviews, and provides communication practice sessions to enhance confidence, speaking skills, and interview performance.",
         image: prepaiLogo,

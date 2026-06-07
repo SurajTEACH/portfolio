@@ -251,8 +251,49 @@ export const SkillsInfo = [
       github: "https://github.com/yourusername/SaveCity",
       webapp: "https://savecity.netlify.app/",
      },
-    {
+
+      {
         id: 3,
+        title: "PrepAI - AI-Powered Learning & Interview Platform",
+        description:
+          "An intelligent AI-powered platform designed to help students and job seekers prepare effectively. PrepAI generates personalized notes, analyzes resumes to identify strengths and improvement areas, conducts AI-driven mock interviews, and provides communication practice sessions to enhance confidence, speaking skills, and interview performance.",
+        image: prepaiLogo,
+        tags: [
+          "React.js",
+          "Node.js",
+          "AI Integration",
+          "Resume Analysis",
+          "Mock Interviews",
+          "Communication Practice",
+          "REST APIs",
+          "MongoDB"
+      ],
+      github: "https://github.com/yourusername/prepai",
+      webapp: "https://sukunotesai-1.onrender.com/",
+    },
+    {
+        id: 4,
+        title: "TenoTech - Full Stack IT Solutions & HRCMS Platform",
+        description:
+          "A comprehensive full-stack IT solutions website developed for TenoTech, showcasing software development services, digital solutions, and business offerings. The platform includes an advanced HRCMS (Human Resource & Content Management System) for employee management, attendance tracking, role-based access control, content management, and administrative operations. Built with a scalable architecture to ensure high performance, security, and seamless user experience.",
+        image: tenotechLogo,
+        tags: [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MySQL",
+          "Tailwind CSS",
+          "HRCMS",
+          "REST APIs",
+          "Authentication",
+          "Role-Based Access Control",
+          "Full Stack Development"
+        ],
+        github: "https://github.com/yourusername/tenotech",
+        webapp: "https://tenoteach.netlify.app/",
+    },
+    {
+        id: 5,
         title: "RealTime Chat Application",
         description:
           "A full-stack real-time chat application enabling users to communicate instantly with secure authentication. It supports real-time messaging using Socket.IO, image sharing with Multer and Cloudinary, and efficient data storage with MongoDB. The application delivers a responsive and seamless chat experience using React.js.",
@@ -274,7 +315,7 @@ export const SkillsInfo = [
 
 
    {
-      id: 4,
+      id: 6,
       title: "Photographya - Responsive Portfolio Website",
       description:
         "A fully responsive photography portfolio website built using HTML, CSS, and JavaScript. It features smooth animations, an elegant gallery layout, and a modern interface designed to showcase visual storytelling with style and simplicity.",
@@ -285,7 +326,7 @@ export const SkillsInfo = [
     },
 
    {
-      id: 5,
+      id: 7,
       title: "Spotify Clone - Music Streaming UI",
       description:
         "A responsive Spotify clone built using HTML, CSS, and JavaScript that replicates the core design and functionality of the original platform. Features include an interactive music player interface, playlist sections, and smooth animations for an engaging user experience.",
@@ -296,7 +337,7 @@ export const SkillsInfo = [
     }, 
 
     {
-      id: 6,
+      id: 8,
       title: "Myntra Clone - E-Commerce Website",
       description:
         "A responsive e-commerce website clone of Myntra built using HTML, CSS, and JavaScript. It features a modern UI with dynamic product listings, interactive cart functionality, and a clean layout optimized for a smooth shopping experience.",
@@ -307,7 +348,7 @@ export const SkillsInfo = [
     },
 
    {
-      id: 7,
+      id: 9,
       title: "Stock Management System",
       description:
         "A desktop-based inventory management application built using Java, MySQL, and Java Swing. It allows users to efficiently manage stock, track sales, and update product data through an interactive GUI for smooth business operations.",
@@ -318,7 +359,7 @@ export const SkillsInfo = [
     },
 
     {
-  id: 8,
+  id: 10,
   title: "Roles & Permissions Management System",
   description:
     "A full-stack web application built using Node.js, Express.js, MongoDB, and React.js that implements role-based access control (RBAC). It allows administrators to create and manage roles, assign permissions, and control user access efficiently through a modern and user-friendly dashboard.",
@@ -329,7 +370,7 @@ export const SkillsInfo = [
   },
 
     {
-  id: 9,
+  id: 11,
   title: "Task Management System",
   description:
     "A full-stack web application built using Node.js, Express.js, MongoDB, and React.js that helps users efficiently manage daily tasks and projects. It allows task creation, assignment, status tracking, and deadline management through an intuitive and responsive user interface.",

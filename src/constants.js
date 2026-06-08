@@ -70,8 +70,7 @@ import  taskManagement from './assets/work_logo/Screenshot 2026-03-19 032200.png
 import   prepaiLogo from './assets/work_logo/prepaiLogo.png';
 import   tenotechLogo from './assets/work_logo/tenotechLogo.png';
 import  sonanchalLogo from './assets/work_logo/sonanchalLogo.png';
- 
-
+import  smartCRM from './assets/work_logo/smartCRM.png';
 
 export const SkillsInfo = [
   {
@@ -296,8 +295,29 @@ export const SkillsInfo = [
         github: "https://github.com/yourusername/tenotech",
         webapp: "https://tenoteach.netlify.app/",
     },
+   {
+  id: 5,
+  title: "Smart CRM Platform",
+  description:
+    "A full-stack CRM platform designed to streamline customer interactions, lead management, and business operations. It features customer and lead tracking, secure authentication, responsive dashboards, and workflow automation. The application provides an intuitive user experience with efficient data management and real-time business insights.",
+  image: smartCRM, // apna image import karna
+  tags: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JWT Authentication",
+    "RESTful APIs",
+    "CRM",
+    "Dashboard",
+    "Lead Management",
+    "Business Automation",
+  ],
+  github: "https://github.com/your-username/smart-crm",
+  webapp: "https://your-smart-crm-demo.com",
+},
     {
-        id: 5,
+        id: 6,
         title: "RealTime Chat Application",
         description:
           "A full-stack real-time chat application enabling users to communicate instantly with secure authentication. It supports real-time messaging using Socket.IO, image sharing with Multer and Cloudinary, and efficient data storage with MongoDB. The application delivers a responsive and seamless chat experience using React.js.",
@@ -317,7 +337,7 @@ export const SkillsInfo = [
         webapp: "https://realtimechatingsuzu.onrender.com",
    },
    {
-  id: 6,
+  id: 7,
   title: "Sonanchal Higher Secondary School Khutar - School Website",
   description:
     "A modern and fully responsive static school website developed for Sonanchal Higher Secondary School Khutar. The website showcases the school's vision, academic programs, facilities, achievements, faculty information, admission details, and contact information. Built with React.js, Tailwind CSS, and Framer Motion to provide smooth animations, an attractive user interface, fast performance, and an excellent user experience across all devices.",
@@ -340,7 +360,7 @@ export const SkillsInfo = [
 
 
    {
-      id: 7,
+      id: 8,
       title: "Photographya - Responsive Portfolio Website",
       description:
         "A fully responsive photography portfolio website built using HTML, CSS, and JavaScript. It features smooth animations, an elegant gallery layout, and a modern interface designed to showcase visual storytelling with style and simplicity.",
@@ -351,7 +371,7 @@ export const SkillsInfo = [
     },
 
    {
-      id: 8,
+      id: 9,
       title: "Spotify Clone - Music Streaming UI",
       description:
         "A responsive Spotify clone built using HTML, CSS, and JavaScript that replicates the core design and functionality of the original platform. Features include an interactive music player interface, playlist sections, and smooth animations for an engaging user experience.",
@@ -362,7 +382,7 @@ export const SkillsInfo = [
     }, 
 
     {
-      id: 9,
+      id: 10,
       title: "Myntra Clone - E-Commerce Website",
       description:
         "A responsive e-commerce website clone of Myntra built using HTML, CSS, and JavaScript. It features a modern UI with dynamic product listings, interactive cart functionality, and a clean layout optimized for a smooth shopping experience.",
@@ -373,7 +393,7 @@ export const SkillsInfo = [
     },
 
    {
-      id: 10,
+      id: 11,
       title: "Stock Management System",
       description:
         "A desktop-based inventory management application built using Java, MySQL, and Java Swing. It allows users to efficiently manage stock, track sales, and update product data through an interactive GUI for smooth business operations.",
@@ -384,7 +404,7 @@ export const SkillsInfo = [
     },
 
     {
-  id: 11,
+  id: 12,
   title: "Roles & Permissions Management System",
   description:
     "A full-stack web application built using Node.js, Express.js, MongoDB, and React.js that implements role-based access control (RBAC). It allows administrators to create and manage roles, assign permissions, and control user access efficiently through a modern and user-friendly dashboard.",
@@ -395,7 +415,7 @@ export const SkillsInfo = [
   },
 
     {
-  id: 12,
+  id: 13,
   title: "Task Management System",
   description:
     "A full-stack web application built using Node.js, Express.js, MongoDB, and React.js that helps users efficiently manage daily tasks and projects. It allows task creation, assignment, status tracking, and deadline management through an intuitive and responsive user interface.",

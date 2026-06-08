@@ -313,8 +313,8 @@ export const SkillsInfo = [
     "Lead Management",
     "Business Automation",
   ],
-  github: "https://github.com/your-username/smart-crm",
-  webapp: "https://your-smart-crm-demo.com",
+  github: "https://github.com/SurajTEACH/smartcrm",
+  webapp: "https://smartcrm-nine.vercel.app/",
 },
     {
         id: 6,

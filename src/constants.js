@@ -69,6 +69,7 @@ import  multiPermission from './assets/work_logo/Screenshot 2026-03-19 024317.pn
 import  taskManagement from './assets/work_logo/Screenshot 2026-03-19 032200.png';
 import   prepaiLogo from './assets/work_logo/prepaiLogo.png';
 import   tenotechLogo from './assets/work_logo/tenotechLogo.png';
+import  sonanchalLogo from './assets/work_logo/sonanchalLogo.png';
  
 
 
@@ -315,10 +316,31 @@ export const SkillsInfo = [
         github: "https://github.com/SurajTEACH/realtimeChatApplication",
         webapp: "https://realtimechatingsuzu.onrender.com",
    },
+   {
+  id: 6,
+  title: "Sonanchal Higher Secondary School Khutar - School Website",
+  description:
+    "A modern and fully responsive static school website developed for Sonanchal Higher Secondary School Khutar. The website showcases the school's vision, academic programs, facilities, achievements, faculty information, admission details, and contact information. Built with React.js, Tailwind CSS, and Framer Motion to provide smooth animations, an attractive user interface, fast performance, and an excellent user experience across all devices.",
+  image: sonanchalLogo,
+  tags: [
+    "React.js",
+    "Tailwind CSS",
+    "Framer Motion",
+    "Responsive Design",
+    "School Website",
+    "UI/UX Design",
+    "Animations",
+    "Landing Page",
+    "Modern Web Design",
+    "Static Website"
+  ],
+  github: "https://github.com/yourusername/sonanchal-school-website",
+  webapp: "https://your-school-website-link.netlify.app/",
+}
 
 
    {
-      id: 6,
+      id: 7,
       title: "Photographya - Responsive Portfolio Website",
       description:
         "A fully responsive photography portfolio website built using HTML, CSS, and JavaScript. It features smooth animations, an elegant gallery layout, and a modern interface designed to showcase visual storytelling with style and simplicity.",
@@ -329,7 +351,7 @@ export const SkillsInfo = [
     },
 
    {
-      id: 7,
+      id: 8,
       title: "Spotify Clone - Music Streaming UI",
       description:
         "A responsive Spotify clone built using HTML, CSS, and JavaScript that replicates the core design and functionality of the original platform. Features include an interactive music player interface, playlist sections, and smooth animations for an engaging user experience.",
@@ -340,7 +362,7 @@ export const SkillsInfo = [
     }, 
 
     {
-      id: 8,
+      id: 9,
       title: "Myntra Clone - E-Commerce Website",
       description:
         "A responsive e-commerce website clone of Myntra built using HTML, CSS, and JavaScript. It features a modern UI with dynamic product listings, interactive cart functionality, and a clean layout optimized for a smooth shopping experience.",
@@ -351,7 +373,7 @@ export const SkillsInfo = [
     },
 
    {
-      id: 9,
+      id: 10,
       title: "Stock Management System",
       description:
         "A desktop-based inventory management application built using Java, MySQL, and Java Swing. It allows users to efficiently manage stock, track sales, and update product data through an interactive GUI for smooth business operations.",
@@ -362,7 +384,7 @@ export const SkillsInfo = [
     },
 
     {
-  id: 10,
+  id: 11,
   title: "Roles & Permissions Management System",
   description:
     "A full-stack web application built using Node.js, Express.js, MongoDB, and React.js that implements role-based access control (RBAC). It allows administrators to create and manage roles, assign permissions, and control user access efficiently through a modern and user-friendly dashboard.",
@@ -373,7 +395,7 @@ export const SkillsInfo = [
   },
 
     {
-  id: 11,
+  id: 12,
   title: "Task Management System",
   description:
     "A full-stack web application built using Node.js, Express.js, MongoDB, and React.js that helps users efficiently manage daily tasks and projects. It allows task creation, assignment, status tracking, and deadline management through an intuitive and responsive user interface.",

@@ -125,26 +125,43 @@ export const SkillsInfo = [
 ];
 
   export const experiences = [
-    {
-  id: 1,
-  img: collegeAssignment,
-  role: "Project Engineer (Academic Role)",
-  company: "College Assignment & Mock Test Distribution System",
-  date: "April 2025 - May 2025",
-  desc: "Led a team of four in developing a full-stack College Assignment and Mock Test Distribution System using Java, Spring Boot, React.js, and MySQL. Designed backend architecture, implemented RESTful APIs with JWT Authentication, guided team members in frontend development, and ensured seamless integration between frontend and backend. Followed Agile methodology for sprint-based development and conducted code reviews to maintain high project quality.",
-  skills: [
-    "Java",
-    "Spring Boot",
-    "React.js",
-    "MySQL",
-    "JWT Authentication",
-    "RESTful APIs",
-    "Agile",
-    "Team Leadership",
-    "Frontend Integration"
-  ]
-}
-
+  {
+    id: 1,
+    img: collegeAssignment,
+    role: "Project Engineer (Academic Role)",
+    company: "College Assignment & Mock Test Distribution System",
+    date: "April 2025 - May 2025",
+    desc: "Led a team of four in developing a full-stack College Assignment and Mock Test Distribution System using Java, Spring Boot, React.js, and MySQL. Designed backend architecture, implemented RESTful APIs with JWT Authentication, guided team members in frontend development, and ensured seamless integration between frontend and backend. Followed Agile methodology for sprint-based development and conducted code reviews to maintain high project quality.",
+    skills: [
+      "Java",
+      "Spring Boot",
+      "React.js",
+      "MySQL",
+      "JWT Authentication",
+      "RESTful APIs",
+      "Agile",
+      "Team Leadership",
+      "Frontend Integration"
+    ]
+  },
+  {
+    id: 2,
+    img: smartCRM,  // apni image import karo
+    role: "Web Development Intern",
+    company: "AMDOX Technologies",
+    date: "March 2026 - June 2026",
+    desc: "Amdox Technologies is a software development and IT consulting firm specializing in web development, mobile applications, cloud computing, AI/ML integration, and digital transformation — delivering scalable, innovative solutions to businesses worldwide. Built CRM features for customer, lead, and contact management. Developed secure backend APIs and integrated frontend components. Designed responsive user interfaces and integrated RESTful APIs. Optimized database operations and improved overall application performance.",
+    skills: [
+      "CRM Development",
+      "RESTful APIs",
+      "Backend Development",
+      "Frontend Integration",
+      "Responsive UI",
+      "Database Optimization",
+      "Web Development"
+    ]
+  }
+];
     // {
     //   id: 1,
     //   img: agcLogo,

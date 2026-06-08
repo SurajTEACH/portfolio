@@ -334,8 +334,8 @@ export const SkillsInfo = [
     "Modern Web Design",
     "Static Website"
   ],
-  github: "https://github.com/yourusername/sonanchal-school-website",
-  webapp: "https://your-school-website-link.netlify.app/",
+  github: "https://github.com/SurajTEACH/NavSonanchal",
+  webapp: "https://nav-sonanchal.vercel.app/",
 }
 
 

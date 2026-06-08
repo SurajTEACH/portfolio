@@ -336,7 +336,7 @@ export const SkillsInfo = [
   ],
   github: "https://github.com/SurajTEACH/NavSonanchal",
   webapp: "https://nav-sonanchal.vercel.app/",
-}
+},
 
 
    {
